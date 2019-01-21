@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1546398954 source:f:\数据结构\航空飞机\flight.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<iostream>
+	<process.h>
+	<string.h>
+	"head.h"
+
+1546405068 f:\数据结构\航空飞机\head.h
+
+1545109357 source:f:\数据结构\航空飞机\global.cpp
+	"head.h"
+
+1546404710 source:f:\数据结构\航空飞机\guest.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<iostream>
+	<process.h>
+	<string.h>
+	"head.h"
+
+1546416487 source:f:\数据结构\航空飞机\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<iostream>
+	<process.h>
+	<string.h>
+	"head.h"
+
